@@ -95,8 +95,8 @@ npx expo start or  npm run web
 
 You can register as:
 - **customer** → can submit requests from web
-email :""
-password :""
+email :"mohamed@email.com"
+password :"123456"
 - **driver** → can view and accept requests from mobile
 
 ---
